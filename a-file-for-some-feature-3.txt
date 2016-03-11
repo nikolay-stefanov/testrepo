@@ -1,5 +1,7 @@
 That's the DUMMY text for the seccond step of "The Feature"
 
-Feature 3- Adding 1st Step of the featue
+Feature 3- Adding 1st Step of the feature
 
-Feature 3- Adding 2nd Step of the featue
+Feature 3- Adding 2nd Step of the feature
+
+Feature 3- Adding 3rd Step of the feature
