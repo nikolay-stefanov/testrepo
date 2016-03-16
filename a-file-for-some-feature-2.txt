@@ -1,0 +1,10 @@
+That's the DUMMY text for the seccond step of "The Feature"
+
+Adding 1st STEP to the feature
+
+Adding 2nd STEP to the feature
+<<<<<<< HEAD
+
+Feature 2 - Adding 3rd STEP to the feature
+=======
+>>>>>>> Feature 2 - Adding 2nd STEP to the feature
